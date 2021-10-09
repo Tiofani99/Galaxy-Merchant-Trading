@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GM Trading</string>
+    <string name="galaxy">Galaxy</string>
+    <string name="trading">Trading</string>
+    <string name="version">Version 1.0</string>
+    <string name="app_desc">GM(Galaxy Merchant) Trading is an application that translates credits from an unknown galaxy</string>
+    <string name="enter_your_command">Enter your command</string>
+    <string name="submit">Submit</string>
+</resources>
